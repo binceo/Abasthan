@@ -1,0 +1,17 @@
+{
+  "name": "abasthan-app",
+  "version": "1.0.0",
+  "description": "Minimal Node.js web service for Abasthan free tier",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo no build step needed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
